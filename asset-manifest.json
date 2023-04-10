@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/job-filter-app/static/css/main.98c65f3c.css",
+    "main.js": "/job-filter-app/static/js/main.055882b5.js",
+    "static/js/787.d8156763.chunk.js": "/job-filter-app/static/js/787.d8156763.chunk.js",
+    "index.html": "/job-filter-app/index.html",
+    "static/media/bg-header-mobile.svg": "/job-filter-app/static/media/bg-header-mobile.b7750a0c3e0c016763b9.svg",
+    "main.98c65f3c.css.map": "/job-filter-app/static/css/main.98c65f3c.css.map",
+    "main.055882b5.js.map": "/job-filter-app/static/js/main.055882b5.js.map",
+    "787.d8156763.chunk.js.map": "/job-filter-app/static/js/787.d8156763.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.98c65f3c.css",
+    "static/js/main.055882b5.js"
+  ]
+}
